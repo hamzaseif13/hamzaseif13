@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamzeh seif</h1>
-<h3 align="center">A passionate Software Engineer in Jordan</h3>
+<h3 align="center">A passionate Software Engineer based in Jordan</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
