@@ -1,3 +1,4 @@
+[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
 <h1 align="center">Hi 👋, I'm Hamzeh seif</h1>
 <h3 align="center">A passionate Software Engineer based in Jordan</h3>
 
